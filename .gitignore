@@ -10,3 +10,5 @@ out/
 key.json
 deploy.sh
 verify.sh
+.DS_Store
+src/.DS_Store
